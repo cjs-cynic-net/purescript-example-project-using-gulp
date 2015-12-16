@@ -1,0 +1,22 @@
+{
+  "name": "purescript-example-project-using-gulp",
+  "version": "1.0.0",
+  "description": "Example PureScript project using Gulp as a build tool.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "^1.7.1",
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-purescript": "^0.8.0",
+    "gulp-run": "^1.6.12",
+    "purescript": "^0.7.6",
+    "rimraf": "^2.4.4",
+    "webpack-stream": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-3-Clause"
+}
